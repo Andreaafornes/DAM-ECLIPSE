@@ -1,0 +1,33 @@
+
+.tablero{
+
+    height: 100px;
+    width: 100px;
+    display:flex;
+    flex-wrap: wrap;
+    margin:150px;
+
+}
+
+
+.fila1{
+    width: 400px;
+    height: 100px;
+    margin:0px;
+    display: flex;
+    
+}
+
+.c1{
+    height: 100px;
+    width: 100px;
+    background-color: rgb(184, 181, 33);
+}
+
+.c2{
+    height: 100px;
+    width: 100px;
+    background-color: rgb(218, 215, 96);
+}
+
+
